@@ -28,6 +28,11 @@ Commit the `.claude/settings.json` these commands write. Teammates who trust the
 
 The plugin's version is in `plugins/metric-chat/.claude-plugin/plugin.json`. Bump it on every release; users stay on their cached copy until it changes. Each release should say which version of the wiki it was written against.
 
+| Plugin version | Written against the wiki's |
+|---|---|
+| 0.2.0 | metric template 0.3, decisions up to D34 |
+| 0.1.0 | (original skill, before the D23-D34 schema changes) |
+
 ## Layout
 
 ```
