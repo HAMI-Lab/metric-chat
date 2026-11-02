@@ -1,0 +1,14 @@
+{
+  "name": "hami-lab",
+  "description": "Claude Code plugins from HAMI-Lab",
+  "owner": {
+    "name": "HAMI-Lab"
+  },
+  "plugins": [
+    {
+      "name": "metric-chat",
+      "source": "./plugins/metric-chat",
+      "description": "Interview a team to choose and refine evaluation metrics for their application, using the HAMI-Lab metrics wiki"
+    }
+  ]
+}
